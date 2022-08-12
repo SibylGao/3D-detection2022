@@ -1,11 +1,11 @@
 # 3D-detection2022
 paper list
 
-SUN RGB-D: 6篇
+SUN RGB-D,ScanNet: 7篇
 
 新数据集：2篇
 
-自动驾驶相关：25篇
+自动驾驶相关：24篇
 
 cvpr 2022:
 
@@ -21,7 +21,7 @@ cvpr 2022:
 10. [**A Versatile Multi-View Framework for LiDAR-Based 3D Object Detection With Guidance From Panoptic Segmentation**](http://openaccess.thecvf.com//content/CVPR2022/html/Fazlali_A_Versatile_Multi-View_Framework_for_LiDAR-Based_3D_Object_Detection_With_CVPR_2022_paper.html)[nuScenes]
 11. [**TransFusion: Robust LiDAR-Camera Fusion for 3D Object Detection With Transformers**](http://openaccess.thecvf.com//content/CVPR2022/html/Bai_TransFusion_Robust_LiDAR-Camera_Fusion_for_3D_Object_Detection_With_Transformers_CVPR_2022_paper.html)[nuScenes]
 12. [**Sparse Fuse Dense: Towards High Quality 3D Detection With Depth Completion**](http://openaccess.thecvf.com//content/CVPR2022/html/Wu_Sparse_Fuse_Dense_Towards_High_Quality_3D_Detection_With_Depth_CVPR_2022_paper.html)
-13. [**Back to Reality: Weakly-Supervised 3D Object Detection With Shape-Guided Label Enhancement**](http://openaccess.thecvf.com//content/CVPR2022/html/Xu_Back_to_Reality_Weakly-Supervised_3D_Object_Detection_With_Shape-Guided_Label_CVPR_2022_paper.html)[ScanNet]
+13. [~~Back to Reality: Weakly-Supervised 3D Object Detection With Shape-Guided Label Enhancement~~](http://openaccess.thecvf.com//content/CVPR2022/html/Xu_Back_to_Reality_Weakly-Supervised_3D_Object_Detection_With_Shape-Guided_Label_CVPR_2022_paper.html)[ScanNet]
 14. [**MonoGround: Detecting Monocular 3D Objects From The Ground**](http://openaccess.thecvf.com//content/CVPR2022/html/Qin_MonoGround_Detecting_Monocular_3D_Objects_From_the_Ground_CVPR_2022_paper.html)
 15. [**DeepFusion: Lidar-Camera Deep Fusion for Multi-Modal 3D Object Detection**](http://openaccess.thecvf.com//content/CVPR2022/html/Li_DeepFusion_Lidar-Camera_Deep_Fusion_for_Multi-Modal_3D_Object_Detection_CVPR_2022_paper.html)[Waymo]
 16. [**Diversity Matters: Fully Exploiting Depth Clues for Reliable Monocular 3D Object Detection**](http://openaccess.thecvf.com//content/CVPR2022/html/Li_Diversity_Matters_Fully_Exploiting_Depth_Clues_for_Reliable_Monocular_3D_CVPR_2022_paper.html)
