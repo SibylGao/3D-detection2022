@@ -10,7 +10,7 @@ cvpr 2022:
 3. [**VISTA: Boosting 3D Object Detection Via Dual Cross-VIew SpaTial Attention**](http://openaccess.thecvf.com//content/CVPR2022/html/Deng_VISTA_Boosting_3D_Object_Detection_via_Dual_Cross-VIew_SpaTial_Attention_CVPR_2022_paper.html)
 4. [**Boosting 3D Object Detection By Simulating Multimodality on Point Clouds**](http://openaccess.thecvf.com//content/CVPR2022/html/Zheng_Boosting_3D_Object_Detection_by_Simulating_Multimodality_on_Point_Clouds_CVPR_2022_paper.html)
 5. [**Bridged Transformer for Vision and Point Cloud 3D Object Detection**](http://openaccess.thecvf.com//content/CVPR2022/html/Wang_Bridged_Transformer_for_Vision_and_Point_Cloud_3D_Object_Detection_CVPR_2022_paper.html)
-6. [**RBGNet: Ray-Based Grouping for 3D Object Detection**](http://openaccess.thecvf.com//content/CVPR2022/html/Wang_RBGNet_Ray-Based_Grouping_for_3D_Object_Detection_CVPR_2022_paper.html)
+6. [～～RBGNet: Ray-Based Grouping for 3D Object Detection～～](http://openaccess.thecvf.com//content/CVPR2022/html/Wang_RBGNet_Ray-Based_Grouping_for_3D_Object_Detection_CVPR_2022_paper.html)
 7. [**HyperDet3D: Learning A Scene-Conditioned 3D Object Detector**](http://openaccess.thecvf.com//content/CVPR2022/html/Zheng_HyperDet3D_Learning_a_Scene-Conditioned_3D_Object_Detector_CVPR_2022_paper.html)
 8. [**3D-VField: Adversarial Augmentation of Point Clouds for Domain Generalization in 3D Object Detection**](http://openaccess.thecvf.com//content/CVPR2022/html/Lehner_3D-VField_Adversarial_Augmentation_of_Point_Clouds_for_Domain_Generalization_in_CVPR_2022_paper.html)
 9. [**DisARM: Displacement Aware Relation Module for 3D Detection**](http://openaccess.thecvf.com//content/CVPR2022/html/Duan_DisARM_Displacement_Aware_Relation_Module_for_3D_Detection_CVPR_2022_paper.html)
