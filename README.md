@@ -7,7 +7,7 @@ cvpr 2022:
 
 1. [**Dimension Embeddings for Monocular 3D Object Detection**](http://openaccess.thecvf.com//content/CVPR2022/html/Zhang_Dimension_Embeddings_for_Monocular_3D_Object_Detection_CVPR_2022_paper.html)
 2. [**CAT-Det: Contrastively Augmented Transformer for Multi-Modal 3D Object Detection**](http://openaccess.thecvf.com//content/CVPR2022/html/Zhang_CAT-Det_Contrastively_Augmented_Transformer_for_Multi-Modal_3D_Object_Detection_CVPR_2022_paper.html)
-3. [**VISTA: Boosting 3D Object Detection Via Dual Cross-VIew SpaTial Attention**](http://openaccess.thecvf.com//content/CVPR2022/html/Deng_VISTA_Boosting_3D_Object_Detection_via_Dual_Cross-VIew_SpaTial_Attention_CVPR_2022_paper.html)
+3. [**VISTA: Boosting 3D Object Detection Via Dual Cross-VIew SpaTial Attention**](http://openaccess.thecvf.com//content/CVPR2022/html/Deng_VISTA_Boosting_3D_Object_Detection_via_Dual_Cross-VIew_SpaTial_Attention_CVPR_2022_paper.html)[nuScenes]
 4. [**Boosting 3D Object Detection By Simulating Multimodality on Point Clouds**](http://openaccess.thecvf.com//content/CVPR2022/html/Zheng_Boosting_3D_Object_Detection_by_Simulating_Multimodality_on_Point_Clouds_CVPR_2022_paper.html)
 5. [**Bridged Transformer for Vision and Point Cloud 3D Object Detection**](http://openaccess.thecvf.com//content/CVPR2022/html/Wang_Bridged_Transformer_for_Vision_and_Point_Cloud_3D_Object_Detection_CVPR_2022_paper.html)
 6. [~~RBGNet: Ray-Based Grouping for 3D Object Detection~~](http://openaccess.thecvf.com//content/CVPR2022/html/Wang_RBGNet_Ray-Based_Grouping_for_3D_Object_Detection_CVPR_2022_paper.html)
