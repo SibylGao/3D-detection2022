@@ -43,4 +43,9 @@ cvpr 2022:
 32. [~~Rotationally Equivariant 3D Object Detection~~](http://openaccess.thecvf.com//content/CVPR2022/html/Yu_Rotationally_Equivariant_3D_Object_Detection_CVPR_2022_paper.html)
 33. [**LIFT: Learning 4D LiDAR Image Fusion Transformer for 3D Object Detection**](http://openaccess.thecvf.com//content/CVPR2022/html/Zeng_LIFT_Learning_4D_LiDAR_Image_Fusion_Transformer_for_3D_Object_CVPR_2022_paper.html)[nuScenes][Waymo]
 
+2021及以前：
+1. [**Is Pseudo-Lidar Needed for Monocular 3D Object Detection?**](http://openaccess.thecvf.com//content/ICCV2021/html/Park_Is_Pseudo-Lidar_Needed_for_Monocular_3D_Object_Detection_ICCV_2021_paper.html) [ICCV2021]
+2. [**Objects Are Different: Flexible Monocular 3D Object Detection**](http://arxiv.org/abs/2104.02323) [CVPR2021]
 
+arxiv:
+1. [**Mix-Teaching: A Simple, Unified and Effective Semi-Supervised Learning Framework for Monocular 3D Object Detection**](http://arxiv.org/abs/2207.04448) [arxiv2022]
