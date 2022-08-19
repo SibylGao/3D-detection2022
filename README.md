@@ -48,6 +48,9 @@ cvpr 2022:
 1. [**Is Pseudo-Lidar Needed for Monocular 3D Object Detection?**](http://openaccess.thecvf.com//content/ICCV2021/html/Park_Is_Pseudo-Lidar_Needed_for_Monocular_3D_Object_Detection_ICCV_2021_paper.html) [ICCV2021]
 2. [**Objects Are Different: Flexible Monocular 3D Object Detection**](http://arxiv.org/abs/2104.02323) [CVPR2021]
 
+
 arxiv:
 1. [**Mix-Teaching: A Simple, Unified and Effective Semi-Supervised Learning Framework for Monocular 3D Object Detection**](http://arxiv.org/abs/2207.04448) [arxiv2022]
 2. [**MonoDETR: Depth-guided Transformer for Monocular 3D Object Detection**](http://arxiv.org/abs/2203.13310)
+3. [**3D Object Detection for Autonomous Driving: A Review and New Outlooks**](http://arxiv.org/abs/2206.09474) [arxiv2022]
+
