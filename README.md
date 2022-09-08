@@ -55,5 +55,5 @@ arxiv:
 3. [**3D Object Detection for Autonomous Driving: A Review and New Outlooks**](http://arxiv.org/abs/2206.09474) [arxiv2022]
 
 survey：
-1. [**Vision-Centric BEV Perception: A Survey"**](https://www.paperdigest.org/paper/?paper_id=arxiv-2208.02797)
-2. [**"3D Object Detection from Images for Autonomous Driving: A Survey"**](https://www.paperdigest.org/paper/?paper_id=arxiv-2202.02980)
+1. [**Vision-Centric BEV Perception: A Survey"**](https://arxiv.org/abs/2208.02797)
+2. [**"3D Object Detection from Images for Autonomous Driving: A Survey"**](https://arxiv.org/abs/2202.02980)
